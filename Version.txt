@@ -1,1 +1,1 @@
-ls > c:\temp\123.txt
+
